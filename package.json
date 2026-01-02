@@ -1,0 +1,13 @@
+{
+  "name": "telegram-security-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with license & security system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
